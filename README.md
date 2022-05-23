@@ -1,3 +1,3 @@
 # C# Console User Creation and Email Validation
 
-A simple console application that creates a number of user names and their emails before allowing for the searching of user names. Emails are validated using regex before user creation.
+A simple console application that creates a number of user names and their emails before allowing for the searching of user names along with listing all users and save player entered data. Emails are validated using regex before user creation and allows one to save to files. Program automatically loads all previously saved files on startup and will generate one to three bot users with personalities for every player loaded and created.
